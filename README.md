@@ -21,6 +21,7 @@
 <img align="center" alt=".net-icon"   height="40" width="40" src="https://static-00.iconduck.com/assets.00/dotnet-icon-256x256-ozvjws7o.png">
 <img align="center" alt="asp.net"     height="40" width="40" src="https://play-lh.googleusercontent.com/ENNkLYrJvvEkOXDxGfukQF8FnpN8DRbxfNZZ2TCYsOTpREpgIpVoXCXpMMuKnzDczQ">
 <img align="center" alt="mysql-icon"  height="40" width="40" src="https://images.ctfassets.net/o7xu9whrs0u9/3wmYS3g0nAFXJggA2aQskT/879edc25907953b6d1f30deb7e7f58f7/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+ <img align="center" alt="python-icon"  height="40" width="40" src="https://i.pinimg.com/originals/6d/d7/bc/6dd7bc34be27074a7e889b7dba23247e.png">
 </div>
 <h1 align="center"><em>Redes Sociais</em>📱</h1>
 <a href = "https://www.linkedin.com/in/rafaelogomes/">
