@@ -8,8 +8,8 @@
 <br>
  
 <div> 
-<img height="230em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Oliveira-Gomes&show_icons=true&theme=radical"/>
-<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Oliveira-Gomes&layout=compact&langs_count=16&theme=radical"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Oliveira-Gomes&show_icons=true&theme=radical"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Oliveira-Gomes&layout=compact&langs_count=16&theme=radical"/>
 </div>
  
 <div  align="center"> 
@@ -23,9 +23,6 @@
 <img align="center" alt="mysql-icon"  height="40" width="40" src="https://images.ctfassets.net/o7xu9whrs0u9/3wmYS3g0nAFXJggA2aQskT/879edc25907953b6d1f30deb7e7f58f7/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
 </div>
 <h1 align="center"><em>Redes Sociais</em>📱</h1>
-<a href = "mailto: ruan.bueno70@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 <a href = "https://www.linkedin.com/in/rafaelogomes/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
